@@ -1,7 +1,7 @@
 Privacy Policy  
 ==============
 
-Last updated: June 25, 2024
+Last updated: July 03, 2024
 
 This Privacy Policy describes Our policies and procedures on the collection,
 use and disclosure of Your information when You use the Service and tells You
@@ -35,11 +35,11 @@ For the purposes of this Privacy Policy:
     more of the shares, equity interest or other securities entitled to vote
     for election of directors or other managing authority.
 
-  * Application refers to Read almagd, the software program provided by the
+  * Application refers to رياض المجد, the software program provided by the
     Company.
 
   * Company (referred to as either "the Company", "We", "Us" or "Our" in this
-    Agreement) refers to Read almagd.
+    Agreement) refers to رياض المجد.
 
   * Country refers to: Israel
 
@@ -79,7 +79,10 @@ While using Our Service, We may ask You to provide Us with certain personally
 identifiable information that can be used to contact or identify You.
 Personally identifiable information may include, but is not limited to:
 
+  * Phone number
+
   * Usage Data
+
 
 Usage Data  
 **********
@@ -300,5 +303,5 @@ Contact Us
 
 If you have any questions about this Privacy Policy, You can contact us:
 
-  * By visiting this page on our website: <https://app.riadmajd.com>
+  * By visiting this page on our website: <https://app.riadmajd.com/>
 
